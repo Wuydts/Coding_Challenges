@@ -1,7 +1,4 @@
 int matrixElementsSum(int[][] matrix) {
-
-
-
      int i, j;
      int count = 0;
      for (j = 0; j < matrix[0].Length; j++)
