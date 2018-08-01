@@ -2,7 +2,7 @@
 Collection of programming challenges from various sites.
 
 ## Problems
-| Problem | Difficulty | Languages | :link: |
+| Problem | Section | Languages | :link: |
 | - | - | - | - |
-| [A List Game](https://github.com/AlexDerr/Kattis/tree/master/Medium/AListGame) | Medium | [C++](https://github.com/AlexDerr/Kattis/blob/master/Medium/AListGame/AListGame.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/listgame) |
+| [Adjacent Elements Product](https://github.com/WuydtsGithub/Coding_Challenges/tree/master/Code%20Fights/Adjacent%20Elements%20Product) | Intro - Edge of Ocean | [C++](https://github.com/WuydtsGithub/Coding_Challenges/blob/master/Code%20Fights/Adjacent%20Elements%20Product/AdjacentElementsProduct.cpp) | [![:cat:](https://alternative.me/icons/codefights.jpg)](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m) |
 
