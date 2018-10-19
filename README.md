@@ -4,8 +4,8 @@ Collection of programming challenges from various sites.
 ## Random Problems
 | Problem | Directory |
 | - | - |
-| Caesar |[Caesar Directory](https://github.com/Wuydts/Coding_Challenges/blob/master/Random/caesar.c) |
-
+| Caesar Cipher|[Caesar's Directory](https://github.com/Wuydts/Coding_Challenges/blob/master/Random/caesar.c) |
+| Vigenère Cipher |[Vigenère's Directory](https://github.com/Wuydts/Coding_Challenges/blob/master/Random/Vigen%C3%A8re.c) |
 
 ## Problems
 | Problem | Section | Languages | :link: |
