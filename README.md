@@ -1,7 +1,7 @@
 # Coding_Challenges
 Collection of programming challenges from various sites.
 
-##Random Problems
+## Random Problems
 | Problem | Directory |
 | - | - |
 | Caesar |[Caesar Directory](https://github.com/Wuydts/Coding_Challenges/blob/master/Random/caesar.c) |
